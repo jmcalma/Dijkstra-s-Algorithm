@@ -1,0 +1,45 @@
+Here are the commands you can perform:
+Q (city code) Query the city information
+D (city code 1) (city code 2) Find the minimum distance between two cities
+I (city code 1) (city code 2) (distance) Insert a road
+R (city code 1) (city code 2) Remove an existing road
+H Display the commands
+E Exit the program
+Q
+City code: 
+LV
+12  LV    LEE VINING             8390   5983 
+
+Please enter a command. Here are the commands you can perform:
+Q (city code) Query the city information
+D (city code 1) (city code 2) Find the minimum distance between two cities
+I (city code 1) (city code 2) (distance) Insert a road
+R (city code 1) (city code 2) Remove an existing road
+H Display the commands
+E Exit the program
+I
+City codes and distance: 
+GG BO 100
+A road has been inserted between these cities.
+
+Please enter a command. Here are the commands you can perform:
+Q (city code) Query the city information
+D (city code 1) (city code 2) Find the minimum distance between two cities
+I (city code 1) (city code 2) (distance) Insert a road
+R (city code 1) (city code 2) Remove an existing road
+H Display the commands
+E Exit the program
+R
+City codes: 
+KV MP
+There is no road between these cities.
+
+Please enter a command. Here are the commands you can perform:
+Q (city code) Query the city information
+D (city code 1) (city code 2) Find the minimum distance between two cities
+I (city code 1) (city code 2) (distance) Insert a road
+R (city code 1) (city code 2) Remove an existing road
+H Display the commands
+E Exit the program
+E
+Good bye.
